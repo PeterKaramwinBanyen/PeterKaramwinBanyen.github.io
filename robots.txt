@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://PeterKaramwinBanyen.github.io/sitemap.xml

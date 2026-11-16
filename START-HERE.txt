@@ -1,0 +1,8 @@
+PETER KARAMWIN BANYEN — PORTFOLIO WEBSITE
+
+1. Extract this ZIP.
+2. Upload everything inside this folder to the root of a public GitHub repository named PeterKaramwinBanyen.github.io.
+3. Enable GitHub Pages: Settings > Pages > Deploy from a branch > main > /(root).
+4. Your website URL will be https://PeterKaramwinBanyen.github.io after GitHub finishes publishing.
+
+Read README.md for full instructions and privacy checks.
